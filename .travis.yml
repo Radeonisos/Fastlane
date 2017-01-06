@@ -14,3 +14,5 @@ before_install:
   - bundle install
 script:
   - bundle exec fastlane bonjour
+after_succes:
+  - bundle exec fastlane deploy
