@@ -1,15 +1,15 @@
 //
-//  FastlaneDemoTests.swift
-//  FastlaneDemoTests
+//  FastlaneDemoMoc2Tests.swift
+//  FastlaneDemoMoc2Tests
 //
-//  Created by Benoit BRIATTE on 04/01/2017.
+//  Created by Benoit BRIATTE on 06/01/2017.
 //  Copyright © 2017 Digipolitan. All rights reserved.
 //
 
 import XCTest
-@testable import FastlaneDemo
+@testable import FastlaneDemoMoc2
 
-class FastlaneDemoTests: XCTestCase {
+class FastlaneDemoMoc2Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()

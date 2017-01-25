@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A31F8E9A1E1CFB6D008F6502"
-               BuildableName = "FastlaneDemo.framework"
-               BlueprintName = "FastlaneDemo"
-               ReferencedContainer = "container:FastlaneDemo.xcodeproj">
+               BlueprintIdentifier = "A37B6B091E1F875100446BC3"
+               BuildableName = "FastlaneDemoMoc2.framework"
+               BlueprintName = "FastlaneDemoMoc2"
+               ReferencedContainer = "container:FastlaneDemoMoc2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A31F8EA31E1CFB6D008F6502"
-               BuildableName = "FastlaneDemoTests.xctest"
-               BlueprintName = "FastlaneDemoTests"
-               ReferencedContainer = "container:FastlaneDemo.xcodeproj">
+               BlueprintIdentifier = "A37B6B121E1F875200446BC3"
+               BuildableName = "FastlaneDemoMoc2Tests.xctest"
+               BlueprintName = "FastlaneDemoMoc2Tests"
+               ReferencedContainer = "container:FastlaneDemoMoc2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A31F8E9A1E1CFB6D008F6502"
-            BuildableName = "FastlaneDemo.framework"
-            BlueprintName = "FastlaneDemo"
-            ReferencedContainer = "container:FastlaneDemo.xcodeproj">
+            BlueprintIdentifier = "A37B6B091E1F875100446BC3"
+            BuildableName = "FastlaneDemoMoc2.framework"
+            BlueprintName = "FastlaneDemoMoc2"
+            ReferencedContainer = "container:FastlaneDemoMoc2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -64,10 +64,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A31F8E9A1E1CFB6D008F6502"
-            BuildableName = "FastlaneDemo.framework"
-            BlueprintName = "FastlaneDemo"
-            ReferencedContainer = "container:FastlaneDemo.xcodeproj">
+            BlueprintIdentifier = "A37B6B091E1F875100446BC3"
+            BuildableName = "FastlaneDemoMoc2.framework"
+            BlueprintName = "FastlaneDemoMoc2"
+            ReferencedContainer = "container:FastlaneDemoMoc2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -82,10 +82,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A31F8E9A1E1CFB6D008F6502"
-            BuildableName = "FastlaneDemo.framework"
-            BlueprintName = "FastlaneDemo"
-            ReferencedContainer = "container:FastlaneDemo.xcodeproj">
+            BlueprintIdentifier = "A37B6B091E1F875100446BC3"
+            BuildableName = "FastlaneDemoMoc2.framework"
+            BlueprintName = "FastlaneDemoMoc2"
+            ReferencedContainer = "container:FastlaneDemoMoc2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
